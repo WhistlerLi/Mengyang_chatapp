@@ -15,8 +15,8 @@ micro transactions using a combination of JS and CSS (you can use something like
 * Socket.io
 
 ### Developing tool:
-1. Visual Studio Code
-2. Github
+Visual Studio Code
+Github
 
 
 ### Authors
