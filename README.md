@@ -14,6 +14,13 @@ micro transactions using a combination of JS and CSS (you can use something like
 * Node
 * Socket.io
 
+### Installing
+* cd to the directory of your choice
+* git clone the repository link
+* npm install
+* npm start
+
+
 ### Developing tool:
 Visual Studio Code
 Github
